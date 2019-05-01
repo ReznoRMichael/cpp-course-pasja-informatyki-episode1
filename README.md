@@ -7,6 +7,7 @@ It was a simple exercise for programming students from an official C++ competiti
 ## Technologies
 * C++
 * CodeBlocks (IDE)
+* GNU GCC Compiler (minGW)
 
 ## Contact
 Created by [@ReznoRMichael](https://github.com/ReznoRMichael)
